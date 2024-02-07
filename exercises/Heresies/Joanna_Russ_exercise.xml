@@ -267,6 +267,86 @@
 	}
 }]]>
         </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/ryanspoon/leaf_workshops/main/exercises/Heresies/Joanna_Russ_exercise.xml?title_annotation_20240207172531119",
+	"type": "oa:Annotation",
+	"dcterms:created": "2024-02-07T22:25:31.119Z",
+	"dcterms:modified": "2024-02-07T22:25:31.119Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/ryanspoon",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Ryan McKendry"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/ryanspoon/leaf_workshops/main/exercises/Heresies/Joanna_Russ_exercise.xml?title_annotation_20240207172531119#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/ryanspoon/leaf_workshops/main/exercises/Heresies/Joanna_Russ_exercise.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.4.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/ryanspoon/leaf_workshops/main/exercises/Heresies/Joanna_Russ_exercise.xml?title_annotation_20240207172531119#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/note/title"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "bf:Title",
+		"@id": "https://www.goodreads.com/en/book/show/134442",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.4.0"
+	},
+	"cwrc:hasCertainty": "cwrc:high"
+}]]>
+        </rdf:Description>
       </rdf:RDF></xenoData><encodingDesc>
          <projectDesc>
             <p>This encoded file was created by Diane Jakacki and made available for a Linked
@@ -279,7 +359,7 @@
       <body>
          <pb n="14" facs="https://raw.githubusercontent.com/LEAF-VRE/training/main/getting_started/exercises/Heresies/Russ_Joanna-image-0001.jpg"/>
          <head><title>Women Talking, Women Thinking </title></head>
-         <note>Various excerpts from the forthcoming novel, On Strike Against God, to be published
+         <note>Various excerpts from the forthcoming novel, <title key="On Strike Against God" ref="https://www.goodreads.com/en/book/show/134442" cert="high" level="m">On Strike Against God</title>, to be published
             in the spring of <date when="1979" cert="high">1978</date> by Out and Out Books.</note>
          <byline><persName key="Joanna Russ" ref="http://www.wikidata.org/entity/Q265270" cert="high" role="aut" type="real">Joanna Russ</persName></byline>
 
