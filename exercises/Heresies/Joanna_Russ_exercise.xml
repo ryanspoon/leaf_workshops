@@ -489,7 +489,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/ryanspoon/leaf_workshops/main/exercises/Heresies/Joanna_Russ_exercise.xml?person_annotation_20240207173041237#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/p[2]/persName[3]"
+			"rdf:value": "TEI/text/body/p[2]/persName[4]"
 		}
 	},
 	"oa:hasBody": {
@@ -670,6 +670,165 @@
 	"cwrc:hasCertainty": "cwrc:high"
 }]]>
         </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/ryanspoon/leaf_workshops/main/exercises/Heresies/Joanna_Russ_exercise.xml?person_annotation_20240207173432241",
+	"type": "oa:Annotation",
+	"dcterms:created": "2024-02-07T22:34:32.241Z",
+	"dcterms:modified": "2024-02-07T22:34:32.241Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/ryanspoon",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Ryan McKendry"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/ryanspoon/leaf_workshops/main/exercises/Heresies/Joanna_Russ_exercise.xml?person_annotation_20240207173432241#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/ryanspoon/leaf_workshops/main/exercises/Heresies/Joanna_Russ_exercise.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.4.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/ryanspoon/leaf_workshops/main/exercises/Heresies/Joanna_Russ_exercise.xml?person_annotation_20240207173432241#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/p[2]/persName[3]"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:NaturalPerson",
+		"@id": "http://www.wikidata.org/entity/Q52235776",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.4.0"
+	}
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/ryanspoon/leaf_workshops/main/exercises/Heresies/Joanna_Russ_exercise.xml?organization_annotation_20240207174539363",
+	"type": "oa:Annotation",
+	"dcterms:created": "2024-02-07T22:45:39.363Z",
+	"dcterms:modified": "2024-02-07T22:45:39.363Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/ryanspoon",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Ryan McKendry"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/ryanspoon/leaf_workshops/main/exercises/Heresies/Joanna_Russ_exercise.xml?organization_annotation_20240207174539363#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/ryanspoon/leaf_workshops/main/exercises/Heresies/Joanna_Russ_exercise.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.4.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/ryanspoon/leaf_workshops/main/exercises/Heresies/Joanna_Russ_exercise.xml?organization_annotation_20240207174539363#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/note/orgName"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "org:Organization",
+		"@id": "http://viaf.org/viaf/7355164298375808630007/",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.4.0"
+	},
+	"cwrc:hasCertainty": "cwrc:medium"
+}]]>
+        </rdf:Description>
       </rdf:RDF></xenoData><encodingDesc>
          <projectDesc>
             <p>This encoded file was created by Diane Jakacki and made available for a Linked
@@ -683,7 +842,7 @@
          <pb n="14" facs="https://raw.githubusercontent.com/LEAF-VRE/training/main/getting_started/exercises/Heresies/Russ_Joanna-image-0001.jpg"/>
          <head><title>Women Talking, Women Thinking </title></head>
          <note>Various excerpts from the forthcoming novel, <title key="On Strike Against God" ref="https://www.goodreads.com/en/book/show/134442" cert="high" level="m">On Strike Against God</title>, to be published
-            in the spring of <date when="1979" cert="high">1978</date> by Out and Out Books.</note>
+            in the spring of <date when="1979" cert="high">1978</date> by <orgName key="Out &amp; Out Books" ref="http://viaf.org/viaf/7355164298375808630007/" cert="medium">Out and Out Books</orgName>.</note>
          <byline><persName key="Joanna Russ" ref="http://www.wikidata.org/entity/Q265270" cert="high" role="aut" type="real">Joanna Russ</persName></byline>
 
          <p>What did we talk about?</p>
@@ -698,7 +857,7 @@
             released floods of tea, and returned to the kitchen to talk. It was professional talk.
             It left me grey-faced and with such concentration that I began to develop a headache. We
             talked about Mary Ann Evans's loss of faith, about <persName key="Emily Brontë" ref="http://www.wikidata.org/entity/Q80137" cert="medium" role="aut" type="real">Emily Bronté</persName>'s isolation, about
-            <persName key="Charlotte Brontë" ref="http://www.wikidata.org/entity/Q127332" cert="high" role="aut" type="real">Charlotte Bronté</persName>'s blinding cloud, about the split in Virginia Woolf's head and the
+            <persName key="Charlotte Brontë" ref="http://www.wikidata.org/entity/Q127332" cert="high" role="aut" type="real">Charlotte Bronté</persName>'s blinding cloud, about the split in <persName key="Virginia Woolf (1882-1941)" ref="http://www.wikidata.org/entity/Q52235776" role="aut">Virginia Woolf'</persName>s head and the
             split in her economic situation. We talked about Lady Murasaki, who wrote in a form that
             no respectable man would touch, Hroswit, a little name whose plays may perhaps amuse
             myself," Miss Austen who had no more expression in society than a firescreen or a poker.
