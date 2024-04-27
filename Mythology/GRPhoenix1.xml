@@ -47,10 +47,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "undefined?person_annotation_20240426215136863",
+	"id": "https://raw.githubusercontent.com/ryanspoon/leaf_workshops/main/Mythology/GRPhoenix1.xml?person_annotation_20240426215136863",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-04-27T01:51:36.863Z",
-	"dcterms:modified": "2024-04-27T01:51:36.863Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/ryanspoon",
 		"@type": [
@@ -61,9 +60,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "undefined?person_annotation_20240426215136863#Target",
+		"@id": "https://raw.githubusercontent.com/ryanspoon/leaf_workshops/main/Mythology/GRPhoenix1.xml?person_annotation_20240426215136863#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/ryanspoon/leaf_workshops/main/Mythology/GRPhoenix1.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -74,7 +74,7 @@
 			"schema:softwareVersion": "3.4.0"
 		},
 		"oa:hasSelector": {
-			"@id": "undefined?person_annotation_20240426215136863#Selector",
+			"@id": "https://raw.githubusercontent.com/ryanspoon/leaf_workshops/main/Mythology/GRPhoenix1.xml?person_annotation_20240426215136863#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/head/persName"
 		}
@@ -129,10 +129,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "undefined?person_annotation_20240426215237825",
+	"id": "https://raw.githubusercontent.com/ryanspoon/leaf_workshops/main/Mythology/GRPhoenix1.xml?person_annotation_20240426215237825",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-04-27T01:52:37.825Z",
-	"dcterms:modified": "2024-04-27T01:52:37.825Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/ryanspoon",
 		"@type": [
@@ -143,9 +142,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "undefined?person_annotation_20240426215237825#Target",
+		"@id": "https://raw.githubusercontent.com/ryanspoon/leaf_workshops/main/Mythology/GRPhoenix1.xml?person_annotation_20240426215237825#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/ryanspoon/leaf_workshops/main/Mythology/GRPhoenix1.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -156,7 +156,7 @@
 			"schema:softwareVersion": "3.4.0"
 		},
 		"oa:hasSelector": {
-			"@id": "undefined?person_annotation_20240426215237825#Selector",
+			"@id": "https://raw.githubusercontent.com/ryanspoon/leaf_workshops/main/Mythology/GRPhoenix1.xml?person_annotation_20240426215237825#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p/persName"
 		}
@@ -207,10 +207,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "undefined?rs_annotation_20240426215437760",
+	"id": "https://raw.githubusercontent.com/ryanspoon/leaf_workshops/main/Mythology/GRPhoenix1.xml?rs_annotation_20240426215437760",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-04-27T01:54:37.760Z",
-	"dcterms:modified": "2024-04-27T01:54:37.760Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/ryanspoon",
 		"@type": [
@@ -221,9 +220,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "undefined?rs_annotation_20240426215437760#Target",
+		"@id": "https://raw.githubusercontent.com/ryanspoon/leaf_workshops/main/Mythology/GRPhoenix1.xml?rs_annotation_20240426215437760#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/ryanspoon/leaf_workshops/main/Mythology/GRPhoenix1.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -234,9 +234,9 @@
 			"schema:softwareVersion": "3.4.0"
 		},
 		"oa:hasSelector": {
-			"@id": "undefined?rs_annotation_20240426215437760#Selector",
+			"@id": "https://raw.githubusercontent.com/ryanspoon/leaf_workshops/main/Mythology/GRPhoenix1.xml?rs_annotation_20240426215437760#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p/rs"
+			"rdf:value": "TEI/text/body/div/p[4]/rs"
 		}
 	},
 	"oa:hasBody": {
@@ -286,10 +286,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "undefined?note_annotation_20240426215547652",
+	"id": "https://raw.githubusercontent.com/ryanspoon/leaf_workshops/main/Mythology/GRPhoenix1.xml?note_annotation_20240426215547652",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-04-27T01:55:47.652Z",
-	"dcterms:modified": "2024-04-27T01:55:47.652Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/ryanspoon",
 		"@type": [
@@ -300,9 +299,10 @@
 	},
 	"oa:motivatedBy": "oa:describing",
 	"oa:hasTarget": {
-		"@id": "undefined?note_annotation_20240426215547652#Target",
+		"@id": "https://raw.githubusercontent.com/ryanspoon/leaf_workshops/main/Mythology/GRPhoenix1.xml?note_annotation_20240426215547652#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/ryanspoon/leaf_workshops/main/Mythology/GRPhoenix1.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -313,9 +313,9 @@
 			"schema:softwareVersion": "3.4.0"
 		},
 		"oa:hasSelector": {
-			"@id": "undefined?note_annotation_20240426215547652#Selector",
+			"@id": "https://raw.githubusercontent.com/ryanspoon/leaf_workshops/main/Mythology/GRPhoenix1.xml?note_annotation_20240426215547652#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p/note"
+			"rdf:value": "TEI/text/body/div/p[4]/note"
 		}
 	},
 	"oa:hasBody": {
@@ -364,10 +364,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "undefined?note_annotation_20240426215619024",
+	"id": "https://raw.githubusercontent.com/ryanspoon/leaf_workshops/main/Mythology/GRPhoenix1.xml?note_annotation_20240426215619024",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-04-27T01:56:19.024Z",
-	"dcterms:modified": "2024-04-27T01:56:19.024Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/ryanspoon",
 		"@type": [
@@ -378,9 +377,10 @@
 	},
 	"oa:motivatedBy": "oa:describing",
 	"oa:hasTarget": {
-		"@id": "undefined?note_annotation_20240426215619024#Target",
+		"@id": "https://raw.githubusercontent.com/ryanspoon/leaf_workshops/main/Mythology/GRPhoenix1.xml?note_annotation_20240426215619024#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/ryanspoon/leaf_workshops/main/Mythology/GRPhoenix1.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -391,9 +391,9 @@
 			"schema:softwareVersion": "3.4.0"
 		},
 		"oa:hasSelector": {
-			"@id": "undefined?note_annotation_20240426215619024#Selector",
+			"@id": "https://raw.githubusercontent.com/ryanspoon/leaf_workshops/main/Mythology/GRPhoenix1.xml?note_annotation_20240426215619024#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p/note[2]"
+			"rdf:value": "TEI/text/body/div/p[4]/note[2]"
 		}
 	},
 	"oa:hasBody": {
@@ -442,10 +442,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "undefined?note_annotation_20240426215639743",
+	"id": "https://raw.githubusercontent.com/ryanspoon/leaf_workshops/main/Mythology/GRPhoenix1.xml?note_annotation_20240426215639743",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-04-27T01:56:39.743Z",
-	"dcterms:modified": "2024-04-27T01:56:39.743Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/ryanspoon",
 		"@type": [
@@ -456,9 +455,10 @@
 	},
 	"oa:motivatedBy": "oa:describing",
 	"oa:hasTarget": {
-		"@id": "undefined?note_annotation_20240426215639743#Target",
+		"@id": "https://raw.githubusercontent.com/ryanspoon/leaf_workshops/main/Mythology/GRPhoenix1.xml?note_annotation_20240426215639743#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/ryanspoon/leaf_workshops/main/Mythology/GRPhoenix1.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -469,9 +469,9 @@
 			"schema:softwareVersion": "3.4.0"
 		},
 		"oa:hasSelector": {
-			"@id": "undefined?note_annotation_20240426215639743#Selector",
+			"@id": "https://raw.githubusercontent.com/ryanspoon/leaf_workshops/main/Mythology/GRPhoenix1.xml?note_annotation_20240426215639743#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p/note[3]"
+			"rdf:value": "TEI/text/body/div/p[4]/note[3]"
 		}
 	},
 	"oa:hasBody": {
@@ -520,10 +520,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "undefined?note_annotation_20240426215700946",
+	"id": "https://raw.githubusercontent.com/ryanspoon/leaf_workshops/main/Mythology/GRPhoenix1.xml?note_annotation_20240426215700946",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-04-27T01:57:00.946Z",
-	"dcterms:modified": "2024-04-27T01:57:00.946Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/ryanspoon",
 		"@type": [
@@ -534,9 +533,10 @@
 	},
 	"oa:motivatedBy": "oa:describing",
 	"oa:hasTarget": {
-		"@id": "undefined?note_annotation_20240426215700946#Target",
+		"@id": "https://raw.githubusercontent.com/ryanspoon/leaf_workshops/main/Mythology/GRPhoenix1.xml?note_annotation_20240426215700946#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/ryanspoon/leaf_workshops/main/Mythology/GRPhoenix1.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -547,9 +547,9 @@
 			"schema:softwareVersion": "3.4.0"
 		},
 		"oa:hasSelector": {
-			"@id": "undefined?note_annotation_20240426215700946#Selector",
+			"@id": "https://raw.githubusercontent.com/ryanspoon/leaf_workshops/main/Mythology/GRPhoenix1.xml?note_annotation_20240426215700946#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p/note[4]"
+			"rdf:value": "TEI/text/body/div/p[4]/note[4]"
 		}
 	},
 	"oa:hasBody": {
@@ -598,10 +598,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "undefined?person_annotation_20240426215905145",
+	"id": "https://raw.githubusercontent.com/ryanspoon/leaf_workshops/main/Mythology/GRPhoenix1.xml?person_annotation_20240426215905145",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-04-27T01:59:05.145Z",
-	"dcterms:modified": "2024-04-27T01:59:05.145Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/ryanspoon",
 		"@type": [
@@ -612,9 +611,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "undefined?person_annotation_20240426215905145#Target",
+		"@id": "https://raw.githubusercontent.com/ryanspoon/leaf_workshops/main/Mythology/GRPhoenix1.xml?person_annotation_20240426215905145#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/ryanspoon/leaf_workshops/main/Mythology/GRPhoenix1.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -625,9 +625,9 @@
 			"schema:softwareVersion": "3.4.0"
 		},
 		"oa:hasSelector": {
-			"@id": "undefined?person_annotation_20240426215905145#Selector",
+			"@id": "https://raw.githubusercontent.com/ryanspoon/leaf_workshops/main/Mythology/GRPhoenix1.xml?person_annotation_20240426215905145#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p/persName[3]"
+			"rdf:value": "TEI/text/body/div/p[4]/persName[2]"
 		}
 	},
 	"oa:hasBody": {
@@ -680,10 +680,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "undefined?rs_annotation_20240426220102019",
+	"id": "https://raw.githubusercontent.com/ryanspoon/leaf_workshops/main/Mythology/GRPhoenix1.xml?rs_annotation_20240426220102019",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-04-27T02:01:02.019Z",
-	"dcterms:modified": "2024-04-27T02:01:02.019Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/ryanspoon",
 		"@type": [
@@ -694,9 +693,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "undefined?rs_annotation_20240426220102019#Target",
+		"@id": "https://raw.githubusercontent.com/ryanspoon/leaf_workshops/main/Mythology/GRPhoenix1.xml?rs_annotation_20240426220102019#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/ryanspoon/leaf_workshops/main/Mythology/GRPhoenix1.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -707,9 +707,9 @@
 			"schema:softwareVersion": "3.4.0"
 		},
 		"oa:hasSelector": {
-			"@id": "undefined?rs_annotation_20240426220102019#Selector",
+			"@id": "https://raw.githubusercontent.com/ryanspoon/leaf_workshops/main/Mythology/GRPhoenix1.xml?rs_annotation_20240426220102019#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p/rs[3]"
+			"rdf:value": "TEI/text/body/div/p[4]/rs[3]"
 		}
 	},
 	"oa:hasBody": {
@@ -759,10 +759,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "undefined?organization_annotation_20240426220232847",
+	"id": "https://raw.githubusercontent.com/ryanspoon/leaf_workshops/main/Mythology/GRPhoenix1.xml?organization_annotation_20240426220232847",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-04-27T02:02:32.847Z",
-	"dcterms:modified": "2024-04-27T02:02:32.847Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/ryanspoon",
 		"@type": [
@@ -773,9 +772,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "undefined?organization_annotation_20240426220232847#Target",
+		"@id": "https://raw.githubusercontent.com/ryanspoon/leaf_workshops/main/Mythology/GRPhoenix1.xml?organization_annotation_20240426220232847#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/ryanspoon/leaf_workshops/main/Mythology/GRPhoenix1.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -786,20 +786,20 @@
 			"schema:softwareVersion": "3.4.0"
 		},
 		"oa:hasSelector": {
-			"@id": "undefined?organization_annotation_20240426220232847#Selector",
+			"@id": "https://raw.githubusercontent.com/ryanspoon/leaf_workshops/main/Mythology/GRPhoenix1.xml?organization_annotation_20240426220232847#Selector",
 			"@type": "oa:RangeSelector",
 			"oa:hasStartSelector": {
 				"@type": "oa:XPathSelector",
-				"rdf:value": "TEI/text/body/div/p/rs[2]"
+				"rdf:value": "TEI/text/body/div/p[4]/rs[2]"
 			},
 			"oa:hasEndSelector": {
 				"@type": "oa:XPathSelector",
-				"rdf:value": "TEI/text/body/div/p"
+				"rdf:value": "TEI/text/body/div/p[4]"
 			},
 			"oa:refinedBy": {
 				"@type": "oa:TextPositionSelector",
 				"oa:start": 0,
-				"oa:end": 287
+				"oa:end": 281
 			}
 		}
 	},
@@ -850,10 +850,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "undefined?person_annotation_20240426220310448",
+	"id": "https://raw.githubusercontent.com/ryanspoon/leaf_workshops/main/Mythology/GRPhoenix1.xml?person_annotation_20240426220310448",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-04-27T02:03:10.448Z",
-	"dcterms:modified": "2024-04-27T02:03:10.448Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/ryanspoon",
 		"@type": [
@@ -864,9 +863,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "undefined?person_annotation_20240426220310448#Target",
+		"@id": "https://raw.githubusercontent.com/ryanspoon/leaf_workshops/main/Mythology/GRPhoenix1.xml?person_annotation_20240426220310448#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/ryanspoon/leaf_workshops/main/Mythology/GRPhoenix1.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -877,9 +877,9 @@
 			"schema:softwareVersion": "3.4.0"
 		},
 		"oa:hasSelector": {
-			"@id": "undefined?person_annotation_20240426220310448#Selector",
+			"@id": "https://raw.githubusercontent.com/ryanspoon/leaf_workshops/main/Mythology/GRPhoenix1.xml?person_annotation_20240426220310448#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p/persName[2]"
+			"rdf:value": "TEI/text/body/div/p[4]/persName"
 		}
 	},
 	"oa:hasBody": {
@@ -901,7 +901,7 @@
 		<body>
 			<div>
 				<head>The Precepts of <persName key="Chiron" ref="http://www.wikidata.org/entity/Q183417" cert="high" role="spk" type="fictional">Chiron</persName> (Excerpt)</head>
-				<p><persName key="Hesiod" ref="http://www.wikidata.org/entity/Q44233" type="real">Hesiod</persName>3.“A chattering crow lives out nine generations of aged men, but a stag’s life is four times<note>36 Generations of Man</note> a crow’s, and a raven’s life makes three stags old<note>108 Generations of Man</note>, while the <rs key="phoenix" ref="http://www.wikidata.org/entity/Q48444" cert="high">phoenix</rs> outlives nine ravens<note>972 Generations of Man</note>, but <persName key="Achilles" ref="http://dbpedia.org/resource/Achilles">we</persName>, the rich-haired <rs key="nymph" ref="http://www.wikidata.org/entity/Q373916" cert="medium">Nymphs</rs>, daughters of <persName key="Zeus" ref="http://www.wikidata.org/entity/Q34201" cert="high" type="fictional">Zeus</persName> the <rs key="Aegis" ref="http://www.wikidata.org/entity/Q190662" cert="high">aegis</rs>-holder, outlive ten phoenixes<note>9,720 Generations of Man</note>.”</p></div>
+				<p><persName key="Hesiod" ref="http://www.wikidata.org/entity/Q44233" type="real">Hesiod</persName></p><p/><p/><p>3.“A chattering crow lives out nine generations of aged men, but a stag’s life is four times<note>36 Generations of Man</note> a crow’s, and a raven’s life makes three stags old<note>108 Generations of Man</note>, while the <rs key="phoenix" ref="http://www.wikidata.org/entity/Q48444" cert="high">phoenix</rs> outlives nine ravens<note>972 Generations of Man</note>, but <persName key="Achilles" ref="http://dbpedia.org/resource/Achilles">we</persName>, the rich-haired <rs key="nymph" ref="http://www.wikidata.org/entity/Q373916" cert="medium">Nymphs</rs>, daughters of <persName key="Zeus" ref="http://www.wikidata.org/entity/Q34201" cert="high" type="fictional">Zeus</persName> the <rs key="Aegis" ref="http://www.wikidata.org/entity/Q190662" cert="high">aegis</rs>-holder, outlive ten phoenixes<note>9,720 Generations of Man</note>.”</p></div>
 		</body>
 	</text>
 </TEI>
