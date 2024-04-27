@@ -577,12 +577,251 @@
 	"cwrc:hasCertainty": "cwrc:high"
 }]]>
         </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/ryanspoon/leaf_workshops/main/Mythology/Jormungandr1.xml?rs_annotation_20240427041417804",
+	"type": "oa:Annotation",
+	"dcterms:created": "2024-04-27T08:14:17.804Z",
+	"dcterms:modified": "2024-04-27T08:14:17.804Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/ryanspoon",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Ryan McKendry"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/ryanspoon/leaf_workshops/main/Mythology/Jormungandr1.xml?rs_annotation_20240427041417804#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/ryanspoon/leaf_workshops/main/Mythology/Jormungandr1.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.4.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/ryanspoon/leaf_workshops/main/Mythology/Jormungandr1.xml?rs_annotation_20240427041417804#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div/p[3]/rs"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "owl:Thing",
+		"@id": "http://dbpedia.org/resource/Jörmungandr",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.4.0"
+	},
+	"cwrc:hasCertainty": "cwrc:high"
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/ryanspoon/leaf_workshops/main/Mythology/Jormungandr1.xml?rs_annotation_20240427041437333",
+	"type": "oa:Annotation",
+	"dcterms:created": "2024-04-27T08:14:37.333Z",
+	"dcterms:modified": "2024-04-27T08:14:37.333Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/ryanspoon",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Ryan McKendry"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/ryanspoon/leaf_workshops/main/Mythology/Jormungandr1.xml?rs_annotation_20240427041437333#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/ryanspoon/leaf_workshops/main/Mythology/Jormungandr1.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.4.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/ryanspoon/leaf_workshops/main/Mythology/Jormungandr1.xml?rs_annotation_20240427041437333#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div/p[3]/rs[2]"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "owl:Thing",
+		"@id": "http://www.wikidata.org/entity/Q193813",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.4.0"
+	}
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/ryanspoon/leaf_workshops/main/Mythology/Jormungandr1.xml?rs_annotation_20240427041502458",
+	"type": "oa:Annotation",
+	"dcterms:created": "2024-04-27T08:15:02.458Z",
+	"dcterms:modified": "2024-04-27T08:15:02.458Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/ryanspoon",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Ryan McKendry"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/ryanspoon/leaf_workshops/main/Mythology/Jormungandr1.xml?rs_annotation_20240427041502458#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/ryanspoon/leaf_workshops/main/Mythology/Jormungandr1.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.4.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/ryanspoon/leaf_workshops/main/Mythology/Jormungandr1.xml?rs_annotation_20240427041502458#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div/p[3]/rs[3]"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "owl:Thing",
+		"@id": "http://www.wikidata.org/entity/Q182560",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.4.0"
+	},
+	"cwrc:hasCertainty": "cwrc:high"
+}]]>
+        </rdf:Description>
       </rdf:RDF></xenoData></teiHeader>
 	<text>
 		<body>
 			<div>
 				<head><title key="Hymiskviða" ref="http://www.wikidata.org/entity/Q2231647" cert="high" level="a">Hymiskviða</title> [Lay of Hymir] (Excerpt)</head>
-				<p>13th Century CE</p><p><rs key="Jörmungandr" ref="http://www.wikidata.org/entity/Q181227" cert="high">Jörmungandr</rs>, the serpent encircles <placeName key="Midgard" ref="http://www.wikidata.org/entity/Q180682" cert="high">the earth<precision match="@ref" precision="high"/></placeName>.</p><p><placeName key="Gosforth Cross" ref="http://www.wikidata.org/entity/Q3003348">Drew up</placeName> boldly|the mighty <persName key="Thor" ref="http://www.wikidata.org/entity/Q42952" cert="high" type="fictional">Thor</persName>|the worm with venom glistening,|up to the side;|with his hammer struck,|on his foul head’s summit,|like a rock towering,|the wolf’s own brother.</p><p>The icebergs resounded,|the caverns howled,|<persName key="Jörð" ref="http://www.wikidata.org/entity/Q548730" cert="medium" type="fictional">the old earth</persName>|shrank together:|at length the fish|back into the ocean sank.<note type="scholarNote">Thor and Jörmungandr are destined to fight during Ragnarok.</note></p></div><div><head>[Lay of Hymir] (Excerpt)</head><p>13th Century CE</p></div>
+				<p>13th Century CE</p><p><rs key="Jörmungandr" ref="http://www.wikidata.org/entity/Q181227" cert="high">Jörmungandr</rs>, the serpent encircles <placeName key="Midgard" ref="http://www.wikidata.org/entity/Q180682" cert="high">the earth<precision match="@ref" precision="high"/></placeName>.</p><p><placeName key="Gosforth Cross" ref="http://www.wikidata.org/entity/Q3003348">Drew up</placeName> boldly|the mighty <persName key="Thor" ref="http://www.wikidata.org/entity/Q42952" cert="high" type="fictional">Thor</persName>|<rs key="Jörmungandr" ref="http://dbpedia.org/resource/Jörmungandr" cert="high">the worm</rs> with venom glistening,|up to the side;|with his <rs key="Mjölnir" ref="http://www.wikidata.org/entity/Q193813">hammer</rs> struck,|on his foul head’s summit,|like a rock towering,|<rs key="Fenrir" ref="http://www.wikidata.org/entity/Q182560" cert="high">the wolf</rs>’s own brother.</p><p>The icebergs resounded,|the caverns howled,|<persName key="Jörð" ref="http://www.wikidata.org/entity/Q548730" cert="medium" type="fictional">the old earth</persName>|shrank together:|at length the fish|back into the ocean sank.<note type="scholarNote">Thor and Jörmungandr are destined to fight during Ragnarok.</note></p></div><div><head>[Lay of Hymir] (Excerpt)</head><p>13th Century CE</p></div>
 		</body>
 	</text>
 </TEI>
