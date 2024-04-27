@@ -132,6 +132,7 @@
 	"id": "https://raw.githubusercontent.com/ryanspoon/leaf_workshops/main/Mythology/GRPhoenix1.xml?person_annotation_20240426215237825",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-04-27T01:52:37.825Z",
+	"dcterms:modified": "2024-04-27T02:31:31.073Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/ryanspoon",
 		"@type": [
@@ -172,7 +173,8 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "3.4.0"
-	}
+	},
+	"cwrc:hasCertainty": "cwrc:high"
 }]]>
         </rdf:Description>
       
@@ -990,7 +992,7 @@
 		<body>
 			<div>
 				<head>The Precepts of <persName key="Chiron" ref="http://www.wikidata.org/entity/Q183417" cert="high" role="spk" type="fictional">Chiron</persName> (Excerpt)</head>
-				<p><persName key="Hesiod" ref="http://www.wikidata.org/entity/Q44233" type="real">Hesiod</persName></p><p/><p>3.“A chattering crow lives out nine generations of aged men, but a stag’s life is four times<note>36 Generations of Man</note> a crow’s, and a raven’s life makes three stags old<note>108 Generations of Man</note>, while the <rs key="phoenix" ref="http://www.wikidata.org/entity/Q48444" cert="high">phoenix</rs> outlives nine ravens<note>972 Generations of Man</note>, but <persName key="Achilles" ref="http://dbpedia.org/resource/Achilles">we</persName>, the rich-haired <rs key="nymph" ref="http://www.wikidata.org/entity/Q373916" cert="medium">Nymphs</rs>, daughters of <persName key="Zeus" ref="http://www.wikidata.org/entity/Q34201" cert="high" type="fictional">Zeus</persName> the <rs key="Aegis" ref="http://www.wikidata.org/entity/Q190662" cert="high">aegis</rs>-holder, outlive ten <rs key="phoenix" ref="http://www.wikidata.org/entity/Q48444" cert="high">phoenixes</rs><note>9,720 Generations of Man</note>.”</p></div>
+				<p><persName key="Hesiod" ref="http://www.wikidata.org/entity/Q44233" type="real" cert="high">Hesiod&amp;lt;, 8th Century</persName></p><p/><p>3.“A chattering crow lives out nine generations of aged men, but a stag’s life is four times<note>36 Generations of Man</note> a crow’s, and a raven’s life makes three stags old<note>108 Generations of Man</note>, while the <rs key="phoenix" ref="http://www.wikidata.org/entity/Q48444" cert="high">phoenix</rs> outlives nine ravens<note>972 Generations of Man</note>, but <persName key="Achilles" ref="http://dbpedia.org/resource/Achilles">we</persName>, the rich-haired <rs key="nymph" ref="http://www.wikidata.org/entity/Q373916" cert="medium">Nymphs</rs>, daughters of <persName key="Zeus" ref="http://www.wikidata.org/entity/Q34201" cert="high" type="fictional">Zeus</persName> the <rs key="Aegis" ref="http://www.wikidata.org/entity/Q190662" cert="high">aegis</rs>-holder, outlive ten <rs key="phoenix" ref="http://www.wikidata.org/entity/Q48444" cert="high">phoenixes</rs><note>9,720 Generations of Man</note>.”</p></div>
 		</body>
 	</text>
 </TEI>
