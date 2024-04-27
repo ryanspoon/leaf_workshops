@@ -1,0 +1,1144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/css" href="https://cwrc.ca/templates/css/tei.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Sample Document Title</title>
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc sameAs="http://www.cwrc.ca">
+				<p>Created from original research by members of CWRC/CSÉC unless
+					otherwise noted.</p>
+			</sourceDesc>
+		</fileDesc>
+		<xenoData><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:as="http://www.w3.org/ns/activitystreams#" xmlns:cwrc="http://sparql.cwrc.ca/ontologies/cwrc#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:geo="http://www.geonames.org/ontology#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:schema="http://schema.org/" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:fabio="https://purl.org/spar/fabio#" xmlns:bf="http://www.openlinksw.com/schemas/bif#" xmlns:cito="https://sparontologies.github.io/cito/current/cito.html#" xmlns:org="http://www.w3.org/ns/org#">
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "undefined?title_annotation_20240426234343096",
+	"type": "oa:Annotation",
+	"dcterms:created": "2024-04-27T03:43:43.096Z",
+	"dcterms:modified": "2024-04-27T03:43:43.096Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/ryanspoon",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Ryan McKendry"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "undefined?title_annotation_20240426234343096#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.4.0"
+		},
+		"oa:hasSelector": {
+			"@id": "undefined?title_annotation_20240426234343096#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div/head/title"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "bf:Title",
+		"@id": "http://www.wikidata.org/entity/Q817383",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.4.0"
+	},
+	"cwrc:hasCertainty": "cwrc:high"
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "undefined?person_annotation_20240426234449505",
+	"type": "oa:Annotation",
+	"dcterms:created": "2024-04-27T03:44:49.505Z",
+	"dcterms:modified": "2024-04-27T03:44:49.505Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/ryanspoon",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Ryan McKendry"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "undefined?person_annotation_20240426234449505#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.4.0"
+		},
+		"oa:hasSelector": {
+			"@id": "undefined?person_annotation_20240426234449505#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div/p/persName"
+		}
+	},
+	"oa:hasBody": {
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person",
+			"cwrc:FictionalPerson"
+		],
+		"@id": "http://www.wikidata.org/entity/Q12506564",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.4.0"
+	},
+	"cwrc:hasCertainty": "cwrc:high"
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "undefined?person_annotation_20240426234627420",
+	"type": "oa:Annotation",
+	"dcterms:created": "2024-04-27T03:46:27.420Z",
+	"dcterms:modified": "2024-04-27T03:46:27.420Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/ryanspoon",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Ryan McKendry"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "undefined?person_annotation_20240426234627420#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.4.0"
+		},
+		"oa:hasSelector": {
+			"@id": "undefined?person_annotation_20240426234627420#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div/p[2]/persName"
+		}
+	},
+	"oa:hasBody": {
+		"@type": [
+			"schema:Person",
+			"cwrc:FictionalPerson"
+		],
+		"@id": "http://www.wikidata.org/entity/Q23168",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.4.0"
+	}
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "undefined?rs_annotation_20240426234829981",
+	"type": "oa:Annotation",
+	"dcterms:created": "2024-04-27T03:48:29.981Z",
+	"dcterms:modified": "2024-04-27T03:48:29.981Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/ryanspoon",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Ryan McKendry"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "undefined?rs_annotation_20240426234829981#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.4.0"
+		},
+		"oa:hasSelector": {
+			"@id": "undefined?rs_annotation_20240426234829981#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div/p[2]/rs"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "owl:Thing",
+		"@id": "http://www.wikidata.org/entity/Q746198",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.4.0"
+	},
+	"cwrc:hasCertainty": "cwrc:high"
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "undefined?person_annotation_20240426234840387",
+	"type": "oa:Annotation",
+	"dcterms:created": "2024-04-27T03:48:40.387Z",
+	"dcterms:modified": "2024-04-27T03:48:40.387Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/ryanspoon",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Ryan McKendry"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "undefined?person_annotation_20240426234840387#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.4.0"
+		},
+		"oa:hasSelector": {
+			"@id": "undefined?person_annotation_20240426234840387#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div/p[2]/persName[2]"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:NaturalPerson",
+		"@id": "http://www.wikidata.org/entity/Q41127",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.4.0"
+	},
+	"cwrc:hasCertainty": "cwrc:high"
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "undefined?person_annotation_20240426235000469",
+	"type": "oa:Annotation",
+	"dcterms:created": "2024-04-27T03:50:00.469Z",
+	"dcterms:modified": "2024-04-27T03:50:00.469Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/ryanspoon",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Ryan McKendry"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "undefined?person_annotation_20240426235000469#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.4.0"
+		},
+		"oa:hasSelector": {
+			"@id": "undefined?person_annotation_20240426235000469#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div/p[2]/persName[3]"
+		}
+	},
+	"oa:hasBody": {
+		"@type": [
+			"schema:Person",
+			"cwrc:FictionalPerson"
+		],
+		"@id": "http://www.wikidata.org/entity/Q203236",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.4.0"
+	}
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "undefined?person_annotation_20240426235036779",
+	"type": "oa:Annotation",
+	"dcterms:created": "2024-04-27T03:50:36.779Z",
+	"dcterms:modified": "2024-04-27T03:50:36.779Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/ryanspoon",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Ryan McKendry"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "undefined?person_annotation_20240426235036779#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.4.0"
+		},
+		"oa:hasSelector": {
+			"@id": "undefined?person_annotation_20240426235036779#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div/p[2]/persName[4]"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:NaturalPerson",
+		"@id": "http://www.wikidata.org/entity/Q134756",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.4.0"
+	},
+	"cwrc:hasCertainty": "cwrc:high"
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "undefined?place_annotation_20240426235053352",
+	"type": "oa:Annotation",
+	"dcterms:created": "2024-04-27T03:50:53.352Z",
+	"dcterms:modified": "2024-04-27T03:50:53.352Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/ryanspoon",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Ryan McKendry"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "undefined?place_annotation_20240426235053352#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.4.0"
+		},
+		"oa:hasSelector": {
+			"@id": "undefined?place_annotation_20240426235053352#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div/p[2]/placeName"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:RealPlace",
+		"@id": "http://www.wikidata.org/entity/Q844930",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.4.0"
+	},
+	"cwrc:hasCertainty": "cwrc:high",
+	"cwrc:hasPrecision": "cwrc:highCertainty"
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "undefined?rs_annotation_20240426235320393",
+	"type": "oa:Annotation",
+	"dcterms:created": "2024-04-27T03:53:20.393Z",
+	"dcterms:modified": "2024-04-27T03:53:20.393Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/ryanspoon",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Ryan McKendry"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "undefined?rs_annotation_20240426235320393#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.4.0"
+		},
+		"oa:hasSelector": {
+			"@id": "undefined?rs_annotation_20240426235320393#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div/p[2]/rs[2]"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "owl:Thing",
+		"@id": "http://www.wikidata.org/entity/Q746198",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.4.0"
+	}
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "undefined?person_annotation_20240426235505293",
+	"type": "oa:Annotation",
+	"dcterms:created": "2024-04-27T03:55:05.293Z",
+	"dcterms:modified": "2024-04-27T03:55:05.293Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/ryanspoon",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Ryan McKendry"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "undefined?person_annotation_20240426235505293#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.4.0"
+		},
+		"oa:hasSelector": {
+			"@id": "undefined?person_annotation_20240426235505293#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div/p[2]/persName[5]"
+		}
+	},
+	"oa:hasBody": {
+		"@type": [
+			"schema:Person",
+			"cwrc:FictionalPerson"
+		],
+		"@id": "http://www.wikidata.org/entity/Q129866",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.4.0"
+	}
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "undefined?rs_annotation_20240426235527260",
+	"type": "oa:Annotation",
+	"dcterms:created": "2024-04-27T03:55:27.260Z",
+	"dcterms:modified": "2024-04-27T03:55:27.260Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/ryanspoon",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Ryan McKendry"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "undefined?rs_annotation_20240426235527260#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.4.0"
+		},
+		"oa:hasSelector": {
+			"@id": "undefined?rs_annotation_20240426235527260#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div/p[2]/rs[3]"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "owl:Thing",
+		"@id": "http://www.wikidata.org/entity/Q129866",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.4.0"
+	},
+	"cwrc:hasCertainty": "cwrc:high"
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "undefined?person_annotation_20240426235544645",
+	"type": "oa:Annotation",
+	"dcterms:created": "2024-04-27T03:55:44.645Z",
+	"dcterms:modified": "2024-04-27T03:55:44.645Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/ryanspoon",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Ryan McKendry"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "undefined?person_annotation_20240426235544645#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.4.0"
+		},
+		"oa:hasSelector": {
+			"@id": "undefined?person_annotation_20240426235544645#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div/p[2]/persName[6]"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:NaturalPerson",
+		"@id": "http://www.wikidata.org/entity/Q23168",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.4.0"
+	},
+	"cwrc:hasCertainty": "cwrc:high"
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "undefined?person_annotation_20240426235837299",
+	"type": "oa:Annotation",
+	"dcterms:created": "2024-04-27T03:58:37.299Z",
+	"dcterms:modified": "2024-04-27T03:58:37.299Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/ryanspoon",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Ryan McKendry"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "undefined?person_annotation_20240426235837299#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.4.0"
+		},
+		"oa:hasSelector": {
+			"@id": "undefined?person_annotation_20240426235837299#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div/p[2]/persName[7]"
+		}
+	},
+	"oa:hasBody": {
+		"@type": [
+			"schema:Person",
+			"cwrc:FictionalPerson"
+		],
+		"@id": "http://www.wikidata.org/entity/Q220344",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.4.0"
+	},
+	"cwrc:hasCertainty": "cwrc:medium"
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "undefined?place_annotation_20240426235907473",
+	"type": "oa:Annotation",
+	"dcterms:created": "2024-04-27T03:59:07.473Z",
+	"dcterms:modified": "2024-04-27T03:59:07.473Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/ryanspoon",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Ryan McKendry"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "undefined?place_annotation_20240426235907473#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.4.0"
+		},
+		"oa:hasSelector": {
+			"@id": "undefined?place_annotation_20240426235907473#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div/p[2]/placeName[2]"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:RealPlace",
+		"@id": "http://www.wikidata.org/entity/Q1091243",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.4.0"
+	}
+}]]>
+        </rdf:Description>
+      </rdf:RDF></xenoData></teiHeader>
+	<text>
+		<body>
+			<div>
+				<head><title key="Bibliotheca" ref="http://www.wikidata.org/entity/Q817383" cert="high">Bibliotheca, Book III</title> (Excerpt)</head>
+				<p><persName key="Pseudo-Apollodorus" ref="http://www.wikidata.org/entity/Q12506564" cert="high" type="both">Pseudo-Apollodorus</persName>, 1st or 2nd Century CE</p><p>"But angry at <persName key="Minos" ref="http://www.wikidata.org/entity/Q23168" type="fictional">him</persName> for not sacrificing <rs key="Cretan Bull" ref="http://www.wikidata.org/entity/Q746198" cert="high">the bull</rs>, <persName key="Poseidon" ref="http://www.wikidata.org/entity/Q41127" cert="high">Poseidon</persName> made the animal savage, and contrived that <persName key="Pasiphaë" ref="http://www.wikidata.org/entity/Q203236" type="fictional">Pasiphae</persName> should conceive a passion for it... In her love for the bull she found an accomplice in <persName key="Daedalus" ref="http://www.wikidata.org/entity/Q134756" cert="high">Daedalus</persName>, an architect, who had been banished from <placeName key="Classical Athens" ref="http://www.wikidata.org/entity/Q844930" cert="high">Athens<precision match="@ref" precision="high"/></placeName> for murder... He constructed a wooden cow on wheels, took it, hollowed it out in the inside, sewed it up in the hide of a cow which he had skinned, and set it in the meadow in which <rs key="Cretan Bull" ref="http://www.wikidata.org/entity/Q746198">the bull</rs> used to graze. Then he introduced Pasiphae into it; and the bull came and coupled with it, as if it were a real cow. And she gave birth to <persName key="Minotaur" ref="http://www.wikidata.org/entity/Q129866" type="fictional">Asterius</persName>, who was called the <rs key="Minotaur" ref="http://www.wikidata.org/entity/Q129866" cert="high">Minotaur</rs>. He had the face of a bull, but the rest of him was human; and <persName key="Minos" ref="http://www.wikidata.org/entity/Q23168" cert="high">Minos</persName>, in compliance with certain <persName key="Pythia" ref="http://www.wikidata.org/entity/Q220344" cert="medium" type="fictional">oracles</persName>, shut him up and guarded him in the <placeName key="Labyrinth of Knossos" ref="http://www.wikidata.org/entity/Q1091243">Labyrinth</placeName>."</p></div>
+		</body>
+	</text>
+</TEI>
