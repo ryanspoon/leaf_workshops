@@ -2178,12 +2178,92 @@
 	"cwrc:hasCertainty": "cwrc:high"
 }]]>
         </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/ryanspoon/leaf_workshops/main/Mythology/Jormungandr1.xml?person_annotation_20240427043012382",
+	"type": "oa:Annotation",
+	"dcterms:created": "2024-04-27T08:30:12.382Z",
+	"dcterms:modified": "2024-04-27T08:30:12.382Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/ryanspoon",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Ryan McKendry"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/ryanspoon/leaf_workshops/main/Mythology/Jormungandr1.xml?person_annotation_20240427043012382#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/ryanspoon/leaf_workshops/main/Mythology/Jormungandr1.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.4.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/ryanspoon/leaf_workshops/main/Mythology/Jormungandr1.xml?person_annotation_20240427043012382#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div[2]/p/persName"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:NaturalPerson",
+		"@id": "http://www.wikidata.org/entity/Q102323",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.4.0"
+	},
+	"cwrc:hasCertainty": "cwrc:high"
+}]]>
+        </rdf:Description>
       </rdf:RDF></xenoData></teiHeader>
 	<text>
 		<body>
 			<div>
 				<head><title key="Hymiskviða" ref="http://www.wikidata.org/entity/Q2231647" cert="high" level="a">Hymiskviða</title> [Lay of Hymir] (Excerpt)</head>
-				<p>13th Century CE</p><p><rs key="Jörmungandr" ref="http://www.wikidata.org/entity/Q181227" cert="high">Jörmungandr</rs>, the serpent encircles <placeName key="Midgard" ref="http://www.wikidata.org/entity/Q180682" cert="high">the earth<precision match="@ref" precision="high"/></placeName>.</p><p><placeName key="Gosforth Cross" ref="http://www.wikidata.org/entity/Q3003348">Drew up</placeName> boldly|the mighty <persName key="Thor" ref="http://www.wikidata.org/entity/Q42952" cert="high" type="fictional">Thor</persName>|<rs key="Jörmungandr" ref="http://dbpedia.org/resource/Jörmungandr" cert="high">the worm</rs> with venom glistening,|up to the side;|with his <rs key="Mjölnir" ref="http://www.wikidata.org/entity/Q193813">hammer</rs> struck,|on his foul head’s summit,|like a rock towering,|<rs key="Fenrir" ref="http://www.wikidata.org/entity/Q182560" cert="high">the wolf</rs>’s own brother.<note type="annotation"> Jörmungandr and Fenrir are brothers and both sons of Loki.</note></p><p>The icebergs resounded,|the caverns howled,|<persName key="Jörð" ref="http://www.wikidata.org/entity/Q548730" cert="medium" type="fictional">the old earth</persName>|shrank together:|at length the fish|back into the ocean sank.<note type="scholarNote">Thor and Jörmungandr are destined to fight during Ragnarok.</note></p></div><div><head><title key="Prose Edda" ref="http://www.wikidata.org/entity/Q205882" level="m">Prose Edda</title> (Excerpt)</head><p>Snorri Sturluson 13th Century CE</p><p>"<persName key="Loki" ref="http://www.wikidata.org/entity/Q133147">Loke</persName> had yet more children. A giantess in <placeName key="Jotunheim" ref="http://www.wikidata.org/entity/Q204102" cert="high">Jotunheim<precision match="@ref" precision="high"/></placeName>, hight <persName key="Angrboða" ref="http://www.wikidata.org/entity/Q371828" cert="high" type="fictional">Angerboda</persName>. With her he begat three children. The first was the <rs key="Fenrir" ref="http://www.wikidata.org/entity/Q182560">Fenris</rs>−wolf; the second, <rs key="Jörmungandr" ref="http://www.wikidata.org/entity/Q181227" cert="high">Jormungand</rs>, that is, the <placeName key="Midgard" ref="http://www.wikidata.org/entity/Q180682">Midgard</placeName>−serpent, and the third, <persName key="Hel" ref="http://www.wikidata.org/entity/Q191589">Hel</persName>.<note type="annotation">Not to be confused with Hel, one of the underworlds in Norse Mythology.</note> When <orgName key="Æsir" ref="http://dbpedia.org/resource/Æsir" cert="medium">the gods</orgName> knew that these three children were being fostered in <placeName key="Jotunheim" ref="http://www.wikidata.org/entity/Q204102" cert="high">Jotunheim<precision match="@ref" precision="high"/></placeName>, and were aware of the <rs key="Ragnarök" ref="http://www.wikidata.org/entity/Q170148">prophecies</rs> that much woe and misfortune would thence come to them, and considering that much evil might be looked for from them on their <persName key="Angrboða" ref="http://www.wikidata.org/entity/Q371828" cert="high" type="fictional">mother</persName>'s side, and still more on their <persName key="Loki" ref="http://www.wikidata.org/entity/Q133147">father</persName>'s, <persName key="Odin" ref="http://www.wikidata.org/entity/Q43610" cert="high" type="fictional">Alfather</persName> sent some of the gods to take the children and bring them to him. When they came to him he threw the serpent into the deep sea which surrounds all lands. There waxed the serpent so that he lies in the midst of the ocean, surrounds all the earth, and <rs key="Ouroboros" ref="http://dbpedia.org/resource/Ouroboros" cert="high">bites his own tail</rs>."</p></div>
+				<p>13th Century CE</p><p><rs key="Jörmungandr" ref="http://www.wikidata.org/entity/Q181227" cert="high">Jörmungandr</rs>, the serpent encircles <placeName key="Midgard" ref="http://www.wikidata.org/entity/Q180682" cert="high">the earth<precision match="@ref" precision="high"/></placeName>.</p><p><placeName key="Gosforth Cross" ref="http://www.wikidata.org/entity/Q3003348">Drew up</placeName> boldly|the mighty <persName key="Thor" ref="http://www.wikidata.org/entity/Q42952" cert="high" type="fictional">Thor</persName>|<rs key="Jörmungandr" ref="http://dbpedia.org/resource/Jörmungandr" cert="high">the worm</rs> with venom glistening,|up to the side;|with his <rs key="Mjölnir" ref="http://www.wikidata.org/entity/Q193813">hammer</rs> struck,|on his foul head’s summit,|like a rock towering,|<rs key="Fenrir" ref="http://www.wikidata.org/entity/Q182560" cert="high">the wolf</rs>’s own brother.<note type="annotation"> Jörmungandr and Fenrir are brothers and both sons of Loki.</note></p><p>The icebergs resounded,|the caverns howled,|<persName key="Jörð" ref="http://www.wikidata.org/entity/Q548730" cert="medium" type="fictional">the old earth</persName>|shrank together:|at length the fish|back into the ocean sank.<note type="scholarNote">Thor and Jörmungandr are destined to fight during Ragnarok.</note></p></div><div><head><title key="Prose Edda" ref="http://www.wikidata.org/entity/Q205882" level="m">Prose Edda</title> (Excerpt)</head><p><persName key="Snorri Sturluson" ref="http://www.wikidata.org/entity/Q102323" cert="high" type="real">Snorri Sturluson</persName> 13th Century CE</p><p>"<persName key="Loki" ref="http://www.wikidata.org/entity/Q133147">Loke</persName> had yet more children. A giantess in <placeName key="Jotunheim" ref="http://www.wikidata.org/entity/Q204102" cert="high">Jotunheim<precision match="@ref" precision="high"/></placeName>, hight <persName key="Angrboða" ref="http://www.wikidata.org/entity/Q371828" cert="high" type="fictional">Angerboda</persName>. With her he begat three children. The first was the <rs key="Fenrir" ref="http://www.wikidata.org/entity/Q182560">Fenris</rs>−wolf; the second, <rs key="Jörmungandr" ref="http://www.wikidata.org/entity/Q181227" cert="high">Jormungand</rs>, that is, the <placeName key="Midgard" ref="http://www.wikidata.org/entity/Q180682">Midgard</placeName>−serpent, and the third, <persName key="Hel" ref="http://www.wikidata.org/entity/Q191589">Hel</persName>.<note type="annotation">Not to be confused with Hel, one of the underworlds in Norse Mythology.</note> When <orgName key="Æsir" ref="http://dbpedia.org/resource/Æsir" cert="medium">the gods</orgName> knew that these three children were being fostered in <placeName key="Jotunheim" ref="http://www.wikidata.org/entity/Q204102" cert="high">Jotunheim<precision match="@ref" precision="high"/></placeName>, and were aware of the <rs key="Ragnarök" ref="http://www.wikidata.org/entity/Q170148">prophecies</rs> that much woe and misfortune would thence come to them, and considering that much evil might be looked for from them on their <persName key="Angrboða" ref="http://www.wikidata.org/entity/Q371828" cert="high" type="fictional">mother</persName>'s side, and still more on their <persName key="Loki" ref="http://www.wikidata.org/entity/Q133147">father</persName>'s, <persName key="Odin" ref="http://www.wikidata.org/entity/Q43610" cert="high" type="fictional">Alfather</persName> sent some of the gods to take the children and bring them to him. When they came to him he threw the serpent into the deep sea which surrounds all lands. There waxed the serpent so that he lies in the midst of the ocean, surrounds all the earth, and <rs key="Ouroboros" ref="http://dbpedia.org/resource/Ouroboros" cert="high">bites his own tail</rs>."</p></div>
 		</body>
 	</text>
 </TEI>
