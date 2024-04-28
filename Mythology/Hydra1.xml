@@ -47,10 +47,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "undefined?title_annotation_20240426222100995",
+	"id": "https://raw.githubusercontent.com/ryanspoon/leaf_workshops/main/Mythology/Hydra1.xml?title_annotation_20240426222100995",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-04-27T02:21:00.995Z",
-	"dcterms:modified": "2024-04-27T02:21:00.995Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/ryanspoon",
 		"@type": [
@@ -61,9 +60,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "undefined?title_annotation_20240426222100995#Target",
+		"@id": "https://raw.githubusercontent.com/ryanspoon/leaf_workshops/main/Mythology/Hydra1.xml?title_annotation_20240426222100995#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/ryanspoon/leaf_workshops/main/Mythology/Hydra1.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -74,7 +74,7 @@
 			"schema:softwareVersion": "3.4.0"
 		},
 		"oa:hasSelector": {
-			"@id": "undefined?title_annotation_20240426222100995#Selector",
+			"@id": "https://raw.githubusercontent.com/ryanspoon/leaf_workshops/main/Mythology/Hydra1.xml?title_annotation_20240426222100995#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/head/title"
 		}
@@ -126,10 +126,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "undefined?person_annotation_20240426222117709",
+	"id": "https://raw.githubusercontent.com/ryanspoon/leaf_workshops/main/Mythology/Hydra1.xml?person_annotation_20240426222117709",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-04-27T02:21:17.709Z",
-	"dcterms:modified": "2024-04-27T02:21:17.709Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/ryanspoon",
 		"@type": [
@@ -140,9 +139,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "undefined?person_annotation_20240426222117709#Target",
+		"@id": "https://raw.githubusercontent.com/ryanspoon/leaf_workshops/main/Mythology/Hydra1.xml?person_annotation_20240426222117709#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/ryanspoon/leaf_workshops/main/Mythology/Hydra1.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -153,9 +153,9 @@
 			"schema:softwareVersion": "3.4.0"
 		},
 		"oa:hasSelector": {
-			"@id": "undefined?person_annotation_20240426222117709#Selector",
+			"@id": "https://raw.githubusercontent.com/ryanspoon/leaf_workshops/main/Mythology/Hydra1.xml?person_annotation_20240426222117709#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p[2]/persName"
+			"rdf:value": "TEI/text/body/div/p/persName"
 		}
 	},
 	"oa:hasBody": {
@@ -205,10 +205,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "undefined?person_annotation_20240426222235660",
+	"id": "https://raw.githubusercontent.com/ryanspoon/leaf_workshops/main/Mythology/Hydra1.xml?person_annotation_20240426222235660",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-04-27T02:22:35.660Z",
-	"dcterms:modified": "2024-04-27T02:22:35.660Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/ryanspoon",
 		"@type": [
@@ -219,9 +218,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "undefined?person_annotation_20240426222235660#Target",
+		"@id": "https://raw.githubusercontent.com/ryanspoon/leaf_workshops/main/Mythology/Hydra1.xml?person_annotation_20240426222235660#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/ryanspoon/leaf_workshops/main/Mythology/Hydra1.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -232,9 +232,9 @@
 			"schema:softwareVersion": "3.4.0"
 		},
 		"oa:hasSelector": {
-			"@id": "undefined?person_annotation_20240426222235660#Selector",
+			"@id": "https://raw.githubusercontent.com/ryanspoon/leaf_workshops/main/Mythology/Hydra1.xml?person_annotation_20240426222235660#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p[3]/persName"
+			"rdf:value": "TEI/text/body/div/p[2]/persName"
 		}
 	},
 	"oa:hasBody": {
@@ -286,10 +286,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "undefined?rs_annotation_20240426222331316",
+	"id": "https://raw.githubusercontent.com/ryanspoon/leaf_workshops/main/Mythology/Hydra1.xml?rs_annotation_20240426222331316",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-04-27T02:23:31.316Z",
-	"dcterms:modified": "2024-04-27T02:23:31.316Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/ryanspoon",
 		"@type": [
@@ -300,9 +299,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "undefined?rs_annotation_20240426222331316#Target",
+		"@id": "https://raw.githubusercontent.com/ryanspoon/leaf_workshops/main/Mythology/Hydra1.xml?rs_annotation_20240426222331316#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/ryanspoon/leaf_workshops/main/Mythology/Hydra1.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -313,9 +313,9 @@
 			"schema:softwareVersion": "3.4.0"
 		},
 		"oa:hasSelector": {
-			"@id": "undefined?rs_annotation_20240426222331316#Selector",
+			"@id": "https://raw.githubusercontent.com/ryanspoon/leaf_workshops/main/Mythology/Hydra1.xml?rs_annotation_20240426222331316#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p[3]/rs"
+			"rdf:value": "TEI/text/body/div/p[2]/rs"
 		}
 	},
 	"oa:hasBody": {
@@ -365,10 +365,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "undefined?person_annotation_20240426222348068",
+	"id": "https://raw.githubusercontent.com/ryanspoon/leaf_workshops/main/Mythology/Hydra1.xml?person_annotation_20240426222348068",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-04-27T02:23:48.068Z",
-	"dcterms:modified": "2024-04-27T02:23:48.068Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/ryanspoon",
 		"@type": [
@@ -379,9 +378,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "undefined?person_annotation_20240426222348068#Target",
+		"@id": "https://raw.githubusercontent.com/ryanspoon/leaf_workshops/main/Mythology/Hydra1.xml?person_annotation_20240426222348068#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/ryanspoon/leaf_workshops/main/Mythology/Hydra1.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -392,9 +392,9 @@
 			"schema:softwareVersion": "3.4.0"
 		},
 		"oa:hasSelector": {
-			"@id": "undefined?person_annotation_20240426222348068#Selector",
+			"@id": "https://raw.githubusercontent.com/ryanspoon/leaf_workshops/main/Mythology/Hydra1.xml?person_annotation_20240426222348068#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p[3]/persName[2]"
+			"rdf:value": "TEI/text/body/div/p[2]/persName[2]"
 		}
 	},
 	"oa:hasBody": {
@@ -444,10 +444,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "undefined?person_annotation_20240426222431503",
+	"id": "https://raw.githubusercontent.com/ryanspoon/leaf_workshops/main/Mythology/Hydra1.xml?person_annotation_20240426222431503",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-04-27T02:24:31.503Z",
-	"dcterms:modified": "2024-04-27T02:24:31.503Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/ryanspoon",
 		"@type": [
@@ -458,9 +457,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "undefined?person_annotation_20240426222431503#Target",
+		"@id": "https://raw.githubusercontent.com/ryanspoon/leaf_workshops/main/Mythology/Hydra1.xml?person_annotation_20240426222431503#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/ryanspoon/leaf_workshops/main/Mythology/Hydra1.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -471,9 +471,9 @@
 			"schema:softwareVersion": "3.4.0"
 		},
 		"oa:hasSelector": {
-			"@id": "undefined?person_annotation_20240426222431503#Selector",
+			"@id": "https://raw.githubusercontent.com/ryanspoon/leaf_workshops/main/Mythology/Hydra1.xml?person_annotation_20240426222431503#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p[3]/persName[3]"
+			"rdf:value": "TEI/text/body/div/p[2]/persName[3]"
 		}
 	},
 	"oa:hasBody": {
@@ -525,10 +525,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "undefined?person_annotation_20240426222445723",
+	"id": "https://raw.githubusercontent.com/ryanspoon/leaf_workshops/main/Mythology/Hydra1.xml?person_annotation_20240426222445723",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-04-27T02:24:45.723Z",
-	"dcterms:modified": "2024-04-27T02:24:45.723Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/ryanspoon",
 		"@type": [
@@ -539,9 +538,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "undefined?person_annotation_20240426222445723#Target",
+		"@id": "https://raw.githubusercontent.com/ryanspoon/leaf_workshops/main/Mythology/Hydra1.xml?person_annotation_20240426222445723#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/ryanspoon/leaf_workshops/main/Mythology/Hydra1.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -552,9 +552,9 @@
 			"schema:softwareVersion": "3.4.0"
 		},
 		"oa:hasSelector": {
-			"@id": "undefined?person_annotation_20240426222445723#Selector",
+			"@id": "https://raw.githubusercontent.com/ryanspoon/leaf_workshops/main/Mythology/Hydra1.xml?person_annotation_20240426222445723#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p[3]/persName[4]"
+			"rdf:value": "TEI/text/body/div/p[2]/persName[4]"
 		}
 	},
 	"oa:hasBody": {
@@ -604,10 +604,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "undefined?place_annotation_20240426222516653",
+	"id": "https://raw.githubusercontent.com/ryanspoon/leaf_workshops/main/Mythology/Hydra1.xml?place_annotation_20240426222516653",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-04-27T02:25:16.653Z",
-	"dcterms:modified": "2024-04-27T02:25:16.653Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/ryanspoon",
 		"@type": [
@@ -618,9 +617,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "undefined?place_annotation_20240426222516653#Target",
+		"@id": "https://raw.githubusercontent.com/ryanspoon/leaf_workshops/main/Mythology/Hydra1.xml?place_annotation_20240426222516653#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/ryanspoon/leaf_workshops/main/Mythology/Hydra1.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -631,9 +631,9 @@
 			"schema:softwareVersion": "3.4.0"
 		},
 		"oa:hasSelector": {
-			"@id": "undefined?place_annotation_20240426222516653#Selector",
+			"@id": "https://raw.githubusercontent.com/ryanspoon/leaf_workshops/main/Mythology/Hydra1.xml?place_annotation_20240426222516653#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p[3]/placeName"
+			"rdf:value": "TEI/text/body/div/p[2]/placeName"
 		}
 	},
 	"oa:hasBody": {
@@ -684,10 +684,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "undefined?person_annotation_20240426222541434",
+	"id": "https://raw.githubusercontent.com/ryanspoon/leaf_workshops/main/Mythology/Hydra1.xml?person_annotation_20240426222541434",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-04-27T02:25:41.434Z",
-	"dcterms:modified": "2024-04-27T02:25:41.434Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/ryanspoon",
 		"@type": [
@@ -698,9 +697,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "undefined?person_annotation_20240426222541434#Target",
+		"@id": "https://raw.githubusercontent.com/ryanspoon/leaf_workshops/main/Mythology/Hydra1.xml?person_annotation_20240426222541434#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/ryanspoon/leaf_workshops/main/Mythology/Hydra1.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -711,9 +711,9 @@
 			"schema:softwareVersion": "3.4.0"
 		},
 		"oa:hasSelector": {
-			"@id": "undefined?person_annotation_20240426222541434#Selector",
+			"@id": "https://raw.githubusercontent.com/ryanspoon/leaf_workshops/main/Mythology/Hydra1.xml?person_annotation_20240426222541434#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p[3]/persName[6]"
+			"rdf:value": "TEI/text/body/div/p[2]/persName[6]"
 		}
 	},
 	"oa:hasBody": {
@@ -765,10 +765,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "undefined?person_annotation_20240426222559194",
+	"id": "https://raw.githubusercontent.com/ryanspoon/leaf_workshops/main/Mythology/Hydra1.xml?person_annotation_20240426222559194",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-04-27T02:25:59.194Z",
-	"dcterms:modified": "2024-04-27T02:25:59.194Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/ryanspoon",
 		"@type": [
@@ -779,9 +778,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "undefined?person_annotation_20240426222559194#Target",
+		"@id": "https://raw.githubusercontent.com/ryanspoon/leaf_workshops/main/Mythology/Hydra1.xml?person_annotation_20240426222559194#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/ryanspoon/leaf_workshops/main/Mythology/Hydra1.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -792,9 +792,9 @@
 			"schema:softwareVersion": "3.4.0"
 		},
 		"oa:hasSelector": {
-			"@id": "undefined?person_annotation_20240426222559194#Selector",
+			"@id": "https://raw.githubusercontent.com/ryanspoon/leaf_workshops/main/Mythology/Hydra1.xml?person_annotation_20240426222559194#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p[3]/persName[7]"
+			"rdf:value": "TEI/text/body/div/p[2]/persName[7]"
 		}
 	},
 	"oa:hasBody": {
@@ -844,10 +844,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "undefined?person_annotation_20240426222635995",
+	"id": "https://raw.githubusercontent.com/ryanspoon/leaf_workshops/main/Mythology/Hydra1.xml?person_annotation_20240426222635995",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-04-27T02:26:35.995Z",
-	"dcterms:modified": "2024-04-27T02:26:35.995Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/ryanspoon",
 		"@type": [
@@ -858,9 +857,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "undefined?person_annotation_20240426222635995#Target",
+		"@id": "https://raw.githubusercontent.com/ryanspoon/leaf_workshops/main/Mythology/Hydra1.xml?person_annotation_20240426222635995#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/ryanspoon/leaf_workshops/main/Mythology/Hydra1.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -871,9 +871,9 @@
 			"schema:softwareVersion": "3.4.0"
 		},
 		"oa:hasSelector": {
-			"@id": "undefined?person_annotation_20240426222635995#Selector",
+			"@id": "https://raw.githubusercontent.com/ryanspoon/leaf_workshops/main/Mythology/Hydra1.xml?person_annotation_20240426222635995#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p[3]/persName[8]"
+			"rdf:value": "TEI/text/body/div/p[2]/persName[8]"
 		}
 	},
 	"oa:hasBody": {
@@ -926,10 +926,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "undefined?person_annotation_20240426222814831",
+	"id": "https://raw.githubusercontent.com/ryanspoon/leaf_workshops/main/Mythology/Hydra1.xml?person_annotation_20240426222814831",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-04-27T02:28:14.831Z",
-	"dcterms:modified": "2024-04-27T02:28:14.831Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/ryanspoon",
 		"@type": [
@@ -940,9 +939,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "undefined?person_annotation_20240426222814831#Target",
+		"@id": "https://raw.githubusercontent.com/ryanspoon/leaf_workshops/main/Mythology/Hydra1.xml?person_annotation_20240426222814831#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/ryanspoon/leaf_workshops/main/Mythology/Hydra1.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -953,9 +953,9 @@
 			"schema:softwareVersion": "3.4.0"
 		},
 		"oa:hasSelector": {
-			"@id": "undefined?person_annotation_20240426222814831#Selector",
+			"@id": "https://raw.githubusercontent.com/ryanspoon/leaf_workshops/main/Mythology/Hydra1.xml?person_annotation_20240426222814831#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p[3]/persName[5]"
+			"rdf:value": "TEI/text/body/div/p[2]/persName[5]"
 		}
 	},
 	"oa:hasBody": {
@@ -1005,10 +1005,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "undefined?rs_annotation_20240426222842899",
+	"id": "https://raw.githubusercontent.com/ryanspoon/leaf_workshops/main/Mythology/Hydra1.xml?rs_annotation_20240426222842899",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-04-27T02:28:42.899Z",
-	"dcterms:modified": "2024-04-27T02:28:42.899Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/ryanspoon",
 		"@type": [
@@ -1019,9 +1018,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "undefined?rs_annotation_20240426222842899#Target",
+		"@id": "https://raw.githubusercontent.com/ryanspoon/leaf_workshops/main/Mythology/Hydra1.xml?rs_annotation_20240426222842899#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/ryanspoon/leaf_workshops/main/Mythology/Hydra1.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -1032,9 +1032,9 @@
 			"schema:softwareVersion": "3.4.0"
 		},
 		"oa:hasSelector": {
-			"@id": "undefined?rs_annotation_20240426222842899#Selector",
+			"@id": "https://raw.githubusercontent.com/ryanspoon/leaf_workshops/main/Mythology/Hydra1.xml?rs_annotation_20240426222842899#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p[3]/rs[2]"
+			"rdf:value": "TEI/text/body/div/p[2]/rs[2]"
 		}
 	},
 	"oa:hasBody": {
@@ -1056,7 +1056,7 @@
 		<body>
 			<div>
 				<head><title key="Theogony" ref="http://www.wikidata.org/entity/Q156498" cert="high" level="a">Theogony</title> (Excerpt)</head>
-				<p/><p><persName key="Hesiod" ref="http://www.wikidata.org/entity/Q44233" cert="high" type="real">Hesiod</persName>, 730-700 BCE</p><p>"Thirdly, again <persName key="Echidna" ref="http://www.wikidata.org/entity/Q185670" type="fictional">she</persName> gave birth to the <placeName key="Lerna" ref="http://www.wikidata.org/entity/Q1236078" cert="high">Lernaean<precision match="@ref" precision="high"/></placeName> <rs key="Hydra" ref="http://www.wikidata.org/entity/Q170379" cert="high">Hydra</rs> subtle in destruction, whom <persName key="Hera" ref="http://www.wikidata.org/entity/Q38012" cert="high">Hera</persName>, white-armed goddess, reared,... implacably hating the mighty <persName key="Heracles" ref="http://www.wikidata.org/entity/Q122248" type="fictional">Hēraklēs</persName>. And <persName key="Zeus" ref="http://www.wikidata.org/entity/Q34201" cert="high">Zeus</persName>’s son, <persName key="Heracles" ref="http://www.wikidata.org/entity/Q122248" cert="high">Hēraklēs</persName>, named of <persName key="Amphitryon" ref="http://www.wikidata.org/entity/Q206214" type="fictional">Amphitryon</persName>—along with warlike <persName key="Iolaos" ref="http://www.wikidata.org/entity/Q504076" cert="high">Iolaos</persName>, and by the counsels of <persName key="Pallas" ref="http://www.wikidata.org/entity/Q457294" cert="medium" type="fictional">Pallas</persName> the despoiler—slaughtered <rs key="Hydra" ref="http://www.wikidata.org/entity/Q170379">it</rs> with ruthless sword."</p></div>
+				<p><persName key="Hesiod" ref="http://www.wikidata.org/entity/Q44233" cert="high" type="real">Hesiod</persName>, 730-700 BCE</p><p>"Thirdly, again <persName key="Echidna" ref="http://www.wikidata.org/entity/Q185670" type="fictional">she</persName> gave birth to the <placeName key="Lerna" ref="http://www.wikidata.org/entity/Q1236078" cert="high">Lernaean<precision match="@ref" precision="high"/></placeName> <rs key="Hydra" ref="http://www.wikidata.org/entity/Q170379" cert="high">Hydra</rs> subtle in destruction, whom <persName key="Hera" ref="http://www.wikidata.org/entity/Q38012" cert="high">Hera</persName>, white-armed goddess, reared,... implacably hating the mighty <persName key="Heracles" ref="http://www.wikidata.org/entity/Q122248" type="fictional">Hēraklēs</persName>. And <persName key="Zeus" ref="http://www.wikidata.org/entity/Q34201" cert="high">Zeus</persName>’s son, <persName key="Heracles" ref="http://www.wikidata.org/entity/Q122248" cert="high">Hēraklēs</persName>, named of <persName key="Amphitryon" ref="http://www.wikidata.org/entity/Q206214" type="fictional">Amphitryon</persName>—along with warlike <persName key="Iolaos" ref="http://www.wikidata.org/entity/Q504076" cert="high">Iolaos</persName>, and by the counsels of <persName key="Pallas" ref="http://www.wikidata.org/entity/Q457294" cert="medium" type="fictional">Pallas</persName> the despoiler—slaughtered <rs key="Hydra" ref="http://www.wikidata.org/entity/Q170379">it</rs> with ruthless sword."</p></div>
 		</body>
 	</text>
 </TEI>
