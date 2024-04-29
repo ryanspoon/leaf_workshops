@@ -47,170 +47,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "undefined?title_annotation_20240426225905093",
-	"type": "oa:Annotation",
-	"dcterms:created": "2024-04-27T02:59:05.093Z",
-	"dcterms:modified": "2024-04-27T02:59:05.093Z",
-	"dcterms:creator": {
-		"@id": "https://github.com/ryanspoon",
-		"@type": [
-			"cwrc:NaturalPerson",
-			"schema:Person"
-		],
-		"cwrc:hasName": "Ryan McKendry"
-	},
-	"oa:motivatedBy": "oa:identifying",
-	"oa:hasTarget": {
-		"@id": "undefined?title_annotation_20240426225905093#Target",
-		"@type": "oa:SpecificResource",
-		"oa:hasSource": {
-			"@type": "dctypes:Text",
-			"dc:format": "text/xml"
-		},
-		"oa:renderedVia": {
-			"@id": "https://leaf-writer.leaf-vre.org",
-			"@type": "as:Application",
-			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "3.4.0"
-		},
-		"oa:hasSelector": {
-			"@id": "undefined?title_annotation_20240426225905093#Selector",
-			"@type": "oa:XPathSelector"
-		}
-	},
-	"oa:hasBody": {
-		"@type": "bf:Title",
-		"@id": "http://www.wikidata.org/entity/Q35160",
-		"dc:format": "text/plain"
-	},
-	"as:generator": {
-		"@id": "https://leaf-writer.leaf-vre.org",
-		"@type": "as:Application",
-		"rdfs:label": "LEAF-Writer",
-		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "3.4.0"
-	},
-	"cwrc:hasCertainty": "cwrc:high"
-}]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
-	"@context": {
-		"dcterms:created": {
-			"@type": "xsd:dateTime",
-			"@id": "dcterms:created"
-		},
-		"dcterms:issued": {
-			"@type": "xsd:dateTime",
-			"@id": "dcterms:issued"
-		},
-		"oa:motivatedBy": {
-			"@type": "oa:Motivation"
-		},
-		"@language": "en",
-		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
-		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
-		"as": "http://www.w3.org/ns/activitystreams#",
-		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
-		"dc": "http://purl.org/dc/elements/1.1/",
-		"dcterms": "http://purl.org/dc/terms/",
-		"foaf": "http://xmlns.com/foaf/0.1/",
-		"geo": "http://www.geonames.org/ontology#",
-		"oa": "http://www.w3.org/ns/oa#",
-		"schema": "http://schema.org/",
-		"xsd": "http://www.w3.org/2001/XMLSchema#",
-		"fabio": "https://purl.org/spar/fabio#",
-		"bf": "http://www.openlinksw.com/schemas/bif#",
-		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
-		"org": "http://www.w3.org/ns/org#"
-	},
-	"id": "undefined?person_annotation_20240426225958080",
-	"type": "oa:Annotation",
-	"dcterms:created": "2024-04-27T02:59:58.080Z",
-	"dcterms:modified": "2024-04-27T02:59:58.080Z",
-	"dcterms:creator": {
-		"@id": "https://github.com/ryanspoon",
-		"@type": [
-			"cwrc:NaturalPerson",
-			"schema:Person"
-		],
-		"cwrc:hasName": "Ryan McKendry"
-	},
-	"oa:motivatedBy": "oa:identifying",
-	"oa:hasTarget": {
-		"@id": "undefined?person_annotation_20240426225958080#Target",
-		"@type": "oa:SpecificResource",
-		"oa:hasSource": {
-			"@type": "dctypes:Text",
-			"dc:format": "text/xml"
-		},
-		"oa:renderedVia": {
-			"@id": "https://leaf-writer.leaf-vre.org",
-			"@type": "as:Application",
-			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "3.4.0"
-		},
-		"oa:hasSelector": {
-			"@id": "undefined?person_annotation_20240426225958080#Selector",
-			"@type": "oa:XPathSelector"
-		}
-	},
-	"oa:hasBody": {
-		"@type": [
-			"cwrc:NaturalPerson",
-			"schema:Person",
-			"cwrc:FictionalPerson"
-		],
-		"@id": "http://www.wikidata.org/entity/Q6691",
-		"dc:format": "text/plain"
-	},
-	"as:generator": {
-		"@id": "https://leaf-writer.leaf-vre.org",
-		"@type": "as:Application",
-		"rdfs:label": "LEAF-Writer",
-		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "3.4.0"
-	},
-	"cwrc:hasCertainty": "cwrc:high"
-}]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
-	"@context": {
-		"dcterms:created": {
-			"@type": "xsd:dateTime",
-			"@id": "dcterms:created"
-		},
-		"dcterms:issued": {
-			"@type": "xsd:dateTime",
-			"@id": "dcterms:issued"
-		},
-		"oa:motivatedBy": {
-			"@type": "oa:Motivation"
-		},
-		"@language": "en",
-		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
-		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
-		"as": "http://www.w3.org/ns/activitystreams#",
-		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
-		"dc": "http://purl.org/dc/elements/1.1/",
-		"dcterms": "http://purl.org/dc/terms/",
-		"foaf": "http://xmlns.com/foaf/0.1/",
-		"geo": "http://www.geonames.org/ontology#",
-		"oa": "http://www.w3.org/ns/oa#",
-		"schema": "http://schema.org/",
-		"xsd": "http://www.w3.org/2001/XMLSchema#",
-		"fabio": "https://purl.org/spar/fabio#",
-		"bf": "http://www.openlinksw.com/schemas/bif#",
-		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
-		"org": "http://www.w3.org/ns/org#"
-	},
-	"id": "undefined?person_annotation_20240426231840300",
+	"id": "https://raw.githubusercontent.com/ryanspoon/leaf_workshops/main/Mythology/GRSirens1.xml?person_annotation_20240426231840300",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-04-27T03:18:40.300Z",
-	"dcterms:modified": "2024-04-27T03:18:40.300Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/ryanspoon",
 		"@type": [
@@ -221,9 +60,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "undefined?person_annotation_20240426231840300#Target",
+		"@id": "https://raw.githubusercontent.com/ryanspoon/leaf_workshops/main/Mythology/GRSirens1.xml?person_annotation_20240426231840300#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/ryanspoon/leaf_workshops/main/Mythology/GRSirens1.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -234,7 +74,7 @@
 			"schema:softwareVersion": "3.4.0"
 		},
 		"oa:hasSelector": {
-			"@id": "undefined?person_annotation_20240426231840300#Selector",
+			"@id": "https://raw.githubusercontent.com/ryanspoon/leaf_workshops/main/Mythology/GRSirens1.xml?person_annotation_20240426231840300#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[2]/persName"
 		}
@@ -288,10 +128,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "undefined?person_annotation_20240426232201459",
+	"id": "https://raw.githubusercontent.com/ryanspoon/leaf_workshops/main/Mythology/GRSirens1.xml?person_annotation_20240426232201459",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-04-27T03:22:01.459Z",
-	"dcterms:modified": "2024-04-27T03:22:01.459Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/ryanspoon",
 		"@type": [
@@ -302,9 +141,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "undefined?person_annotation_20240426232201459#Target",
+		"@id": "https://raw.githubusercontent.com/ryanspoon/leaf_workshops/main/Mythology/GRSirens1.xml?person_annotation_20240426232201459#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/ryanspoon/leaf_workshops/main/Mythology/GRSirens1.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -315,7 +155,7 @@
 			"schema:softwareVersion": "3.4.0"
 		},
 		"oa:hasSelector": {
-			"@id": "undefined?person_annotation_20240426232201459#Selector",
+			"@id": "https://raw.githubusercontent.com/ryanspoon/leaf_workshops/main/Mythology/GRSirens1.xml?person_annotation_20240426232201459#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div[2]/p[2]/persName"
 		}
@@ -367,10 +207,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "undefined?organization_annotation_20240426232218808",
+	"id": "https://raw.githubusercontent.com/ryanspoon/leaf_workshops/main/Mythology/GRSirens1.xml?organization_annotation_20240426232218808",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-04-27T03:22:18.808Z",
-	"dcterms:modified": "2024-04-27T03:22:18.808Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/ryanspoon",
 		"@type": [
@@ -381,9 +220,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "undefined?organization_annotation_20240426232218808#Target",
+		"@id": "https://raw.githubusercontent.com/ryanspoon/leaf_workshops/main/Mythology/GRSirens1.xml?organization_annotation_20240426232218808#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/ryanspoon/leaf_workshops/main/Mythology/GRSirens1.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -394,7 +234,7 @@
 			"schema:softwareVersion": "3.4.0"
 		},
 		"oa:hasSelector": {
-			"@id": "undefined?organization_annotation_20240426232218808#Selector",
+			"@id": "https://raw.githubusercontent.com/ryanspoon/leaf_workshops/main/Mythology/GRSirens1.xml?organization_annotation_20240426232218808#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div[2]/p[2]/orgName"
 		}
@@ -445,10 +285,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "undefined?place_annotation_20240426232515410",
+	"id": "https://raw.githubusercontent.com/ryanspoon/leaf_workshops/main/Mythology/GRSirens1.xml?place_annotation_20240426232557947",
 	"type": "oa:Annotation",
-	"dcterms:created": "2024-04-27T03:25:15.410Z",
-	"dcterms:modified": "2024-04-27T03:25:57.947Z",
+	"dcterms:created": "2024-04-27T03:25:57.947Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/ryanspoon",
 		"@type": [
@@ -459,9 +298,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "undefined?place_annotation_20240426232515410#Target",
+		"@id": "https://raw.githubusercontent.com/ryanspoon/leaf_workshops/main/Mythology/GRSirens1.xml?place_annotation_20240426232557947#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/ryanspoon/leaf_workshops/main/Mythology/GRSirens1.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -472,7 +312,7 @@
 			"schema:softwareVersion": "3.4.0"
 		},
 		"oa:hasSelector": {
-			"@id": "undefined?place_annotation_20240426232515410#Selector",
+			"@id": "https://raw.githubusercontent.com/ryanspoon/leaf_workshops/main/Mythology/GRSirens1.xml?place_annotation_20240426232557947#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div[2]/p[2]/placeName"
 		}
@@ -525,10 +365,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "undefined?person_annotation_20240426232651848",
+	"id": "https://raw.githubusercontent.com/ryanspoon/leaf_workshops/main/Mythology/GRSirens1.xml?person_annotation_20240426232651848",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-04-27T03:26:51.848Z",
-	"dcterms:modified": "2024-04-27T03:26:51.848Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/ryanspoon",
 		"@type": [
@@ -539,9 +378,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "undefined?person_annotation_20240426232651848#Target",
+		"@id": "https://raw.githubusercontent.com/ryanspoon/leaf_workshops/main/Mythology/GRSirens1.xml?person_annotation_20240426232651848#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/ryanspoon/leaf_workshops/main/Mythology/GRSirens1.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -552,7 +392,7 @@
 			"schema:softwareVersion": "3.4.0"
 		},
 		"oa:hasSelector": {
-			"@id": "undefined?person_annotation_20240426232651848#Selector",
+			"@id": "https://raw.githubusercontent.com/ryanspoon/leaf_workshops/main/Mythology/GRSirens1.xml?person_annotation_20240426232651848#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div[2]/p[2]/persName[2]"
 		}
@@ -606,10 +446,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "undefined?person_annotation_20240426232701882",
+	"id": "https://raw.githubusercontent.com/ryanspoon/leaf_workshops/main/Mythology/GRSirens1.xml?person_annotation_20240426232701882",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-04-27T03:27:01.882Z",
-	"dcterms:modified": "2024-04-27T03:27:01.882Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/ryanspoon",
 		"@type": [
@@ -620,9 +459,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "undefined?person_annotation_20240426232701882#Target",
+		"@id": "https://raw.githubusercontent.com/ryanspoon/leaf_workshops/main/Mythology/GRSirens1.xml?person_annotation_20240426232701882#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/ryanspoon/leaf_workshops/main/Mythology/GRSirens1.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -633,7 +473,7 @@
 			"schema:softwareVersion": "3.4.0"
 		},
 		"oa:hasSelector": {
-			"@id": "undefined?person_annotation_20240426232701882#Selector",
+			"@id": "https://raw.githubusercontent.com/ryanspoon/leaf_workshops/main/Mythology/GRSirens1.xml?person_annotation_20240426232701882#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div[2]/p[2]/persName[3]"
 		}
@@ -658,7 +498,7 @@
 		<body>
 			<div>
 				<head><title key="Odyssey" ref="http://www.wikidata.org/entity/Q35160" cert="high" level="a">The Odyssey, Book XII</title> (Excerpt)</head>
-				<p><persName key="Homer" ref="http://www.wikidata.org/entity/Q6691" cert="high" type="both">Homer</persName>, 750-640 BCE</p><p>"<persName key="Circe" ref="http://www.wikidata.org/entity/Q187602" type="fictional">'</persName>First you will come to the Sirens who enchant all who come near them. If any one unwarily draws in too close and hears the singing of the Sirens, his wife and children will never welcome him home again, for they sit in a green field and warble him to death with the sweetness of their song. There is a great heap of dead men's bones lying all around, with the flesh still rotting off them. Therefore pass these Sirens by, and stop your men's ears with wax that none of them may hear; but if you like you can listen yourself, for you may get the men to bind you as you stand upright on a cross-piece half way up the mast, and they must lash the rope's ends to the mast itself, that you may have the pleasure of listening. If you beg and pray the men to unloose you, then they must bind you faster'."</p><p/></div><div><head><title key="Odyssey" ref="http://www.wikidata.org/entity/Q35160" cert="high" level="a">The Odyssey, Book XXIII</title> (Excerpt)</head><p><persName key="Homer" ref="http://www.wikidata.org/entity/Q6691" cert="high" type="both">Homer</persName>, 750-640 BCE</p><p>"...how <persName key="Odysseus" ref="http://www.wikidata.org/entity/Q47231" cert="high">he</persName> then heard the wondrous singing of the <orgName key="siren" ref="http://www.wikidata.org/entity/Q150986">Sirens</orgName>, and went on to <placeName key="Planctae" ref="http://www.wikidata.org/entity/Q2587481" cert="high">the wandering rocks<precision match="@ref" precision="low"/></placeName> and terrible <persName key="Charybdis" ref="http://www.wikidata.org/entity/Q192082" type="fictional">Charybdis</persName> and to <persName key="Scylla" ref="http://www.wikidata.org/entity/Q193115" cert="high">Scylla</persName>, whom no man had ever yet passed in safety..."</p><p/><p/></div>
+				<p><persName key="Homer" ref="http://www.wikidata.org/entity/Q6691" cert="high" type="both">Homer</persName>, 750-640 BCE</p><p>"[Circe] 'First you will come to the Sirens who enchant all who come near them. If any one unwarily draws in too close and hears the singing of the Sirens, his wife and children will never welcome him home again, for they sit in a green field and warble him to death with the sweetness of their song. There is a great heap of dead men's bones lying all around, with the flesh still rotting off them. Therefore pass these Sirens by, and stop your men's ears with wax that none of them may hear; but if you like you can listen yourself, for you may get the men to bind you as you stand upright on a cross-piece half way up the mast, and they must lash the rope's ends to the mast itself, that you may have the pleasure of listening. If you beg and pray the men to unloose you, then they must bind you faster'."</p><p/></div><div><head><title key="Odyssey" ref="http://www.wikidata.org/entity/Q35160" cert="high" level="a">The Odyssey, Book XXIII</title> (Excerpt)</head><p><persName key="Homer" ref="http://www.wikidata.org/entity/Q6691" cert="high" type="both">Homer</persName>, 750-640 BCE</p><p>"...how <persName key="Odysseus" ref="http://www.wikidata.org/entity/Q47231" cert="high">he</persName> then heard the wondrous singing of the <orgName key="siren" ref="http://www.wikidata.org/entity/Q150986">Sirens</orgName>, and went on to <placeName key="Planctae" ref="http://www.wikidata.org/entity/Q2587481" cert="high">the wandering rocks<precision match="@ref" precision="low"/></placeName> and terrible <persName key="Charybdis" ref="http://www.wikidata.org/entity/Q192082" type="fictional">Charybdis</persName> and to <persName key="Scylla" ref="http://www.wikidata.org/entity/Q193115" cert="high">Scylla</persName>, whom no man had ever yet passed in safety..."</p><p/><p/></div>
 		</body>
 	</text>
 </TEI>
